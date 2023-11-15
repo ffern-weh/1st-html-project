@@ -1,0 +1,25 @@
+#name{
+    font-family: cursive;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: olive;
+    opacity: 0.7;
+}
+
+.about{
+    font-family: Helvetica, sans-serif;
+
+}
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color: black;
+}
+
+li:hover{
+    color: blue
+}
+h4.about{
+    color: orange;
+}
